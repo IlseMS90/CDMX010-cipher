@@ -6,5 +6,5 @@
 
 ## Maquetación
 
-![](cipherma2.png)
+![](ciphermaok.png)
   
